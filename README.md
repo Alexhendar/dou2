@@ -77,3 +77,14 @@ apt install shadowsocks
 nohup ssserver -c /etc/shadowsocks/config.json > log &
 ```
 
+V2ray
+---
+
+
+按照用户手册安装即可
+
+```
+https://www.v2ray.com/
+```
+
+代码地址：https://github.com/v2ray
