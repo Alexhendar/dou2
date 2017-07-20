@@ -7,7 +7,7 @@
 修改 Hosts
 ---
 
-对于和我一起只选择使用 Google 的用户来说，这是一种**安全**、**可靠**的上网方法。
+对于和我一样只选择使用 Google 的用户来说，这是一种**安全**、**可靠**的上网方法。
 
 你可以从下面的地址：https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 
